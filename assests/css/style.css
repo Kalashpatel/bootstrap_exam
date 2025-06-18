@@ -39,3 +39,11 @@ h1, h2, h3, h4, h5, h6{
     top: 3%;
     right: 3%;
 }
+.service-item{
+    background-color: #F2F2F2;
+    height: 450px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
