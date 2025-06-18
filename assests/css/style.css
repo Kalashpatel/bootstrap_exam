@@ -1,3 +1,41 @@
 h1, h2, h3, h4, h5, h6{
     font-family: 'Marcellus';
 }
+.about-item{
+    max-height: 660px;
+    overflow-y: auto;
+    width: 55%;
+}
+.blog-item{
+    height: 250px;
+}
+.blog1{
+    background: url(../images/blog/blog_slider_img1.png);
+    background-size: cover;
+}
+.blog2{
+    background: url(../images/blog/blog_img5.png);
+    background-size: cover;
+}
+.blog3{
+    background: url(../images/blog/blog_pop_up.png);
+    background-size: cover;
+}
+.blog4{
+    background: url(../images/blog/blog_slider_img2.png);
+    background-size: cover;
+}
+.blog5{
+    background: url(../images/blog/blog_slider_img3.png);
+    background-size: cover;
+}
+.blog6{
+    background: url(../images/blog/blog_slider_img4.png);
+    background-size: cover;
+}
+.blog-date{
+    width: 70px;
+    height: 70px;
+    top: 3%;
+    right: 3%;
+}
